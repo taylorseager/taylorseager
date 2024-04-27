@@ -1,8 +1,8 @@
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩🏻‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm Taylor, origionally from the Mitten State but loving the Nashville vibe<br><br>- 🔭 I’m working as an Occupational Therapist while attending NSS<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to spend time with my hubs and 🐶 fur babies, being outside or learning something new!</p>
+<p align="left">Hey there! I'm Taylor, origionally from the Mitten State but loving the Nashville vibe<br><br>- 🔭 I’m working as an Occupational Therapist while attending NSS<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to spend time with my hubs and 🐶 fur babies, being outside or learning something new!</p>
 
 ###
 
