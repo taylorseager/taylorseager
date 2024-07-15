@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hey there! I'm Taylor, origionally from the Mitten State but loving the Nashville vibe<br><br>- 🔭 I’m working as an Occupational Therapist while attending NSS<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I love to spend time with my hubs and 🐶 fur babies, being outside or learning something new!</p>
+<p align="left">Hey there! I'm Taylor, origionally from the Mitten State but loving the Nashville vibe<br><br>- 🔭 I’m working as an Occupational Therapist while attending NSS<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I love to spend time with my hubs and 🐶 fur babies, being outside or learning something new!</p>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 ###
